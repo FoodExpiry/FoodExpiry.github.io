@@ -225,13 +225,6 @@ button:focus {
 	background-attachment: fixed;
 }
 
-.mu-header-overlay {
-	display: inline;
-	float: left;
-	opacity: 0.8;
-	width: 100%;
-}
-
 .mu-logo-area {
 	display: inline;
 	float: left;
